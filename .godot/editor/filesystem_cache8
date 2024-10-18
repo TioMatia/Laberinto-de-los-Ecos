@@ -1,4 +1,91 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1728696094
-icon.svg::CompressedTexture2D::8939604862758558659::1728695682::1728696099::1::::<><>::
-Menu.tscn::PackedScene::4232210167829402676::1728695727::0::1::::<><>::
+::res://::1729212854
+icon.svg::CompressedTexture2D::8939604862758558659::1728867175::1729212770::1::::<><>::
+node_2d.tscn::PackedScene::1256308720429700717::1729212753::0::1::::<><>::
+::res://Assets mapa/::1729212833
+MysticAcid_basics_PetricakeGames.png::CompressedTexture2D::311016330914462942::1729212833::1729212833::1::::<><>::
+::res://Assets mapa/Mini_Dungeon_v1.0/::1729212833
+::res://Assets mapa/Mini_Dungeon_v1.0/Characters/::1729212834
+Player.png::CompressedTexture2D::3987159999278936082::1729212833::1729212834::1::::<><>::
+PlayerV2.png::CompressedTexture2D::7342753621323827934::1729212833::1729212834::1::::<><>::
+PlayerV3.png::CompressedTexture2D::5986243977454878554::1729212833::1729212834::1::::<><>::
+Slime.png::CompressedTexture2D::1601446404211446823::1729212833::1729212834::1::::<><>::
+SlimeV2.png::CompressedTexture2D::3924968841625075007::1729212833::1729212834::1::::<><>::
+Wizard.png::CompressedTexture2D::1414436032613565647::1729212833::1729212834::1::::<><>::
+::res://Assets mapa/Mini_Dungeon_v1.0/Objects/::1729212834
+Button.png::CompressedTexture2D::4705730293808717490::1729212833::1729212834::1::::<><>::
+Chest_Closed.png::CompressedTexture2D::3501740106370915531::1729212833::1729212834::1::::<><>::
+Chest_Open_Empty.png::CompressedTexture2D::6060105248840151944::1729212833::1729212834::1::::<><>::
+Chest_Open_Filled.png::CompressedTexture2D::5671830360888970929::1729212833::1729212834::1::::<><>::
+Coin.png::CompressedTexture2D::8331601635778617300::1729212833::1729212834::1::::<><>::
+Key.png::CompressedTexture2D::5085360148922311651::1729212833::1729212834::1::::<><>::
+Lever.png::CompressedTexture2D::7583909513122265108::1729212833::1729212834::1::::<><>::
+Lock_1.png::CompressedTexture2D::2397794606392883021::1729212833::1729212834::1::::<><>::
+Lock_2.png::CompressedTexture2D::7167378257370284195::1729212833::1729212834::1::::<><>::
+PotionL_Blue.png::CompressedTexture2D::4992136709140949881::1729212833::1729212834::1::::<><>::
+PotionL_Green.png::CompressedTexture2D::2327503638410857257::1729212833::1729212834::1::::<><>::
+PotionL_Purple.png::CompressedTexture2D::8982066293025075832::1729212833::1729212834::1::::<><>::
+PotionL_Red.png::CompressedTexture2D::3997645293641374182::1729212833::1729212834::1::::<><>::
+PotionL_Yellow.png::CompressedTexture2D::5199746519398051045::1729212833::1729212834::1::::<><>::
+PotionS_Blue.png::CompressedTexture2D::6489813173254097553::1729212833::1729212834::1::::<><>::
+PotionS_Green.png::CompressedTexture2D::2308742880872913828::1729212833::1729212834::1::::<><>::
+PotionS_Purple.png::CompressedTexture2D::3721526321456637381::1729212833::1729212834::1::::<><>::
+PotionS_Red.png::CompressedTexture2D::4391656619355478124::1729212833::1729212834::1::::<><>::
+PotionS_Yellow.png::CompressedTexture2D::4802702074097965202::1729212833::1729212834::1::::<><>::
+Pressureplate.png::CompressedTexture2D::1698093605507683456::1729212833::1729212834::1::::<><>::
+Spike_1.png::CompressedTexture2D::5248126861484933576::1729212833::1729212834::1::::<><>::
+Torch.png::CompressedTexture2D::5991847934010051733::1729212833::1729212834::1::::<><>::
+Trapdoor.png::CompressedTexture2D::5463423793262033673::1729212833::1729212834::1::::<><>::
+::res://Assets mapa/Mini_Dungeon_v1.0/Tilesets/::1729212854
+Decor.png::CompressedTexture2D::6381978151210923137::1729212833::1729212855::1::::<><>::
+Door_1.png::CompressedTexture2D::663517891600481803::1729212833::1729212855::1::::<><>::
+Door_2.png::CompressedTexture2D::247507101702601797::1729212833::1729212855::1::::<><>::
+DoubleDoor.png::CompressedTexture2D::1692025897720980386::1729212833::1729212855::1::::<><>::
+Floor.png::CompressedTexture2D::6298070351283184128::1729212833::1729212855::1::::<><>::
+Walls.png::CompressedTexture2D::8039567623661034125::1729212833::1729212855::1::::<><>::
+::res://Assets mapa/png/::1729212854
+apartmentA5demo.png::CompressedTexture2D::8787482231915013169::1729212833::1729212834::1::::<><>::
+::res://Assets mapa/sprites/::1729212833
+::res://Assets mapa/sprites/characters/::1729212834
+player.png::CompressedTexture2D::2953499685087752290::1729212833::1729212834::1::::<><>::
+README.txt::TextFile::-1::1729212833::0::1::::<><>::
+skeleton.png::CompressedTexture2D::4641795531762533173::1729212833::1729212834::1::::<><>::
+skeleton_swordless.png::CompressedTexture2D::1648005432125536786::1729212833::1729212834::1::::<><>::
+slime.png::CompressedTexture2D::3124860508988571657::1729212833::1729212834::1::::<><>::
+::res://Assets mapa/sprites/objects/::1729212833
+chest_01.png::CompressedTexture2D::5632384327852431381::1729212833::1729212833::1::::<><>::
+chest_02.png::CompressedTexture2D::1127492447710461896::1729212833::1729212833::1::::<><>::
+objects.png::CompressedTexture2D::780928580436726339::1729212833::1729212833::1::::<><>::
+rock_in_water-sheet.png::CompressedTexture2D::6185610862866883319::1729212833::1729212833::1::::<><>::
+rock_in_water_01-sheet.png::CompressedTexture2D::2507875831888756344::1729212833::1729212833::1::::<><>::
+rock_in_water_01.png::CompressedTexture2D::6452014047312692342::1729212833::1729212833::1::::<><>::
+rock_in_water_02.png::CompressedTexture2D::3954470224243685955::1729212833::1729212833::1::::<><>::
+rock_in_water_03.png::CompressedTexture2D::6427632274139716895::1729212833::1729212833::1::::<><>::
+rock_in_water_04.png::CompressedTexture2D::8032354205607508261::1729212833::1729212833::1::::<><>::
+rock_in_water_05.png::CompressedTexture2D::6291659157190371575::1729212833::1729212833::1::::<><>::
+rock_in_water_06.png::CompressedTexture2D::6269077829584697392::1729212833::1729212833::1::::<><>::
+::res://Assets mapa/sprites/particles/::1729212833
+dust_particles_01.png::CompressedTexture2D::8841388356741540567::1729212833::1729212833::1::::<><>::
+::res://Assets mapa/sprites/tilesets/::1729212834
+decor_8x8.png::CompressedTexture2D::3561982333182066276::1729212833::1729212834::1::::<><>::
+decor_16x16.png::CompressedTexture2D::3536879473805176159::1729212833::1729212834::1::::<><>::
+fences.png::CompressedTexture2D::4924309241953269831::1729212833::1729212834::1::::<><>::
+grass.png::CompressedTexture2D::3024337693109822800::1729212833::1729212834::1::::<><>::
+plains.png::CompressedTexture2D::256541369194148874::1729212833::1729212834::1::::<><>::
+water1.png::CompressedTexture2D::2151692746109733060::1729212833::1729212834::1::::<><>::
+water2.png::CompressedTexture2D::588359011626893272::1729212833::1729212834::1::::<><>::
+water3.png::CompressedTexture2D::2799403772569305630::1729212833::1729212834::1::::<><>::
+water4.png::CompressedTexture2D::8527570424416527858::1729212833::1729212834::1::::<><>::
+water5.png::CompressedTexture2D::7659518738618392165::1729212833::1729212834::1::::<><>::
+water6.png::CompressedTexture2D::1395307770258875496::1729212833::1729212834::1::::<><>::
+water-sheet.png::CompressedTexture2D::813286840751886287::1729212833::1729212834::1::::<><>::
+water_decorations.png::CompressedTexture2D::6169257570383165637::1729212833::1729212834::1::::<><>::
+water_lillies.png::CompressedTexture2D::6498388442436501907::1729212833::1729212834::1::::<><>::
+::res://Assets mapa/sprites/tilesets/floors/::1729212833
+carpet.png::CompressedTexture2D::6070208162943259338::1729212833::1729212833::1::::<><>::
+flooring.png::CompressedTexture2D::6149967026936699767::1729212833::1729212833::1::::<><>::
+wooden.png::CompressedTexture2D::1844676224927268982::1729212833::1729212833::1::::<><>::
+::res://Assets mapa/sprites/tilesets/walls/::1729212834
+walls.png::CompressedTexture2D::5834110768302735824::1729212833::1729212834::1::::<><>::
+wooden_door.png::CompressedTexture2D::8700373928087273375::1729212833::1729212834::1::::<><>::
+wooden_door_b.png::CompressedTexture2D::610348964516592122::1729212833::1729212834::1::::<><>::
